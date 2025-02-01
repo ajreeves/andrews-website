@@ -6,8 +6,8 @@ title: Andrew Reeves
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Andrew
+last_name: Reeves
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Director of the Weidenbaum Center and Professor of Political Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
