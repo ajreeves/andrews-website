@@ -16,15 +16,10 @@ image:
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
-## Video
-
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
-
-{{< youtube ZcPzyOfqNKQ&t */>}}
 
 **Youtube**:
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+    {{</* youtube ZcPzyOfqNKQ&t */>}}
 
 **Bilibili**:
 
