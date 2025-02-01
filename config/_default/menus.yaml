@@ -11,7 +11,7 @@ main:
     url: /#research
     weight: 11
   - name: CV
-    url: /reeves.pdf
+    url: /reevescv.pdf
     weight: 12
   - name: TEACHING
     url: /#news
