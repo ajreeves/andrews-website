@@ -8,17 +8,17 @@ main:
     url: /
     weight: 10
   - name: RESEARCH
-    url: /#research
+    url: /research
     weight: 11
   - name: CV
     url: /reevescv.pdf
     weight: 12
   - name: TEACHING
-    url: /#news
+    url: teaching/
     weight: 13
   - name: CONTACT
-    url: teaching/
+    url: contact/
     weight: 40
   - name: IN THE NEWS
-    url: teaching/
+    url: news/
     weight: 40
