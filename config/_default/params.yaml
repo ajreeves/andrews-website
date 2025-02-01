@@ -5,8 +5,11 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: green
+  mode: classic
+  theme_day: custom
+  theme_night: custom
+  font: custom
+  font_size: M
 
 # SEO
 marketing:
