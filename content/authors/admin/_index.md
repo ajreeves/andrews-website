@@ -45,9 +45,12 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Executive Politics
+- Elections
+- Representation and Accountability
+- Local Politics
+- Urban-Rural Divide
+- Environmental Politics
 
 education:
   - area: PhD Artificial Intelligence
