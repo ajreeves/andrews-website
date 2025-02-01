@@ -43,10 +43,6 @@ profiles:
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
-   - icon: brands/bluesky
-    url: https://bsky.app/profile/ajreeves.bsky.social
-
-
 
 interests:
   - Artificial Intelligence
