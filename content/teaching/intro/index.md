@@ -20,10 +20,6 @@ On this page, you'll find some examples of the types of technical content that c
 {{< youtube ZcPzyOfqNKQ >}}
 
 
-**Youtube**:
-
-    {{</* youtube ZcPzyOfqNKQ&t */>}}
-
 **Bilibili**:
 
     {{</* bilibili id="BV1WV4y1r7DF" */>}}
