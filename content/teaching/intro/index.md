@@ -1,5 +1,5 @@
 ---
-title: Learn JavaScript
+title: American Politics
 summary: Easily learn JavaScript in 10 minutes!
 date: 2023-10-24
 type: docs
@@ -20,7 +20,7 @@ On this page, you'll find some examples of the types of technical content that c
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube ZcPzyOfqNKQ&t >}}
 
 **Youtube**:
 
