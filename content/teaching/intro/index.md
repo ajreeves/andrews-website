@@ -17,7 +17,7 @@ image:
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
 
-{{< youtube ZcPzyOfqNKQ&t >}}
+{{< youtube ZcPzyOfqNKQ >}}
 
 
 **Youtube**:
