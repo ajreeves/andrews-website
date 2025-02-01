@@ -21,7 +21,7 @@ sections:
     design:
       #css_class: dark
       background:
-        color: white
+        color: blue
         #image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
@@ -31,7 +31,7 @@ sections:
           #position: center
           #parallax: false
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
