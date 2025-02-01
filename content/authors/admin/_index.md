@@ -24,8 +24,14 @@ role: Director of the Weidenbaum Center and Professor of Political Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+- name: Washington University in St. Louis
+  url: "http://www.wustl.edu"
+- name: Weidenbaum Center on the Economy, Government, and Public Policy
+  url: "http://wc.wustl.edu"
+- name: Taylor Geospatial Institute
+  url: "https://taylorgeospatial.org/"
+- name: Hoover Institution
+  url: "https://www.hoover.org"
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,10 +39,8 @@ profiles:
   - icon: at-symbol
     url: 'reeves@wustl.edu'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ajreeves
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/areeves/
   - icon: academicons/google-scholar
